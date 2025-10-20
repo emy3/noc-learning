@@ -1,14 +1,14 @@
-# Chapter 0: Introduction
+# Chapter 0: Randomness
 
 ## Overview
-Introduction to The Nature of Code and getting started with Processing/p5.js.
+Understanding randomness, probability, and noise in computational systems.
 
 ## Topics Covered
-- What is The Nature of Code about?
-- Introduction to Processing and p5.js
 - Random walks
 - Probability and distributions
 - Perlin noise
+- Custom probability distributions
+- Gaussian distributions
 
 ## Code Examples
 Add your code examples and experiments here.

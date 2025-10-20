@@ -1,4 +1,4 @@
-# Chapter 5: Physics Libraries
+# Chapter 6: Physics Libraries
 
 ## Overview
 Using existing physics engines to simulate complex interactions.
