@@ -11,17 +11,18 @@ The repository is organized by chapters, with each chapter containing:
 
 ### Chapters
 
-- **Chapter 0: Introduction** - Introduction to the book and processing/p5.js
+- **Chapter 0: Randomness** - Random walks, probability, and Perlin noise
 - **Chapter 1: Vectors** - Understanding vectors and motion
 - **Chapter 2: Forces** - Newton's laws of motion and forces
 - **Chapter 3: Oscillation** - Trigonometry, angular motion, and oscillation
 - **Chapter 4: Particle Systems** - Creating and managing multiple objects
-- **Chapter 5: Physics Libraries** - Using physics engines
-- **Chapter 6: Autonomous Agents** - Steering behaviors and complex systems
+- **Chapter 5: Autonomous Agents** - Steering behaviors and complex systems
+- **Chapter 6: Physics Libraries** - Using physics engines
 - **Chapter 7: Cellular Automata** - Simple rules creating complex patterns
 - **Chapter 8: Fractals** - Recursive patterns and self-similarity
 - **Chapter 9: Evolutionary Computing** - Genetic algorithms and evolution
 - **Chapter 10: Neural Networks** - Introduction to machine learning
+- **Chapter 11: Neuroevolution** - Evolving neural networks with genetic algorithms
 
 ## Getting Started
 

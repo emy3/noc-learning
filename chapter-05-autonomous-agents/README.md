@@ -1,4 +1,4 @@
-# Chapter 6: Autonomous Agents
+# Chapter 5: Autonomous Agents
 
 ## Overview
 Creating vehicles and agents with autonomous steering behaviors.
