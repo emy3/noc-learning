@@ -1,9 +1,13 @@
 function setup() {
   createCanvas(640, 640);
+
+  walker = new walker();
+  background(255);
 }
 
 function draw() {
-  
+  walker.step();
+  walker.show();
 }
 
 class walker {
